@@ -1,0 +1,86 @@
+{
+  "boards": [
+    {
+      "name": "Todo Task ",
+      "isActive":false,
+      "columns": [
+        {
+          "name": "Todo",
+          "tasks": [
+            {
+              "title": "Build UI for onboarding flow",
+              "description": "",
+              "due":"30/11/2023",
+              "status": "Todo"
+            },
+            {
+              "title": "Build UI for search",
+              "description": "",
+              "due":"30/11/2023",
+              "status": "Todo"
+            },
+            {
+              "title": "Build settings UI",
+              "description": "",
+              "due":"30/11/2023",
+              "status": "Todo"
+            },
+            {
+              "title": "QA and test all major user journeys",
+              "description": "Once we feel version one is ready, we need to rigorously test it both internally and externally to identify any major gaps.",
+              "due":"30/11/2023",
+              "status": "Todo"
+            }
+          ]
+        },
+        {
+          "name": "Done",
+          "tasks": [
+            {
+              "title": "Conduct 5 wireframe tests",
+              "description": "Ensure the layout continues to make sense and we have strong buy-in from potential users.",
+              "due":"30/11/2023",
+              "status": "Done"
+            },
+            {
+              "title": "Create wireframe prototype",
+              "description": "Create a greyscale clickable wireframe prototype to test our asssumptions so far.",
+              "due":"30/11/2023",
+              "status": "Done"
+            },
+            {
+              "title": "Review results of usability tests and iterate",
+              "description": "Keep iterating through the subtasks until we're clear on the core concepts for the app.",
+              "due":"30/11/2023",
+              "status": "Done"
+            },
+            {
+              "title": "Create paper prototypes and conduct 10 usability tests with potential customers",
+              "description": "",
+              "due":"30/11/2023",
+              "status": "Done"
+            },
+            {
+              "title": "Market discovery",
+              "description": "We need to define and refine our core product. Interviews will help us learn common pain points and help us define the strongest MVP.",
+              "due":"30/11/2023",
+              "status": "Done"
+            },
+            {
+              "title": "Competitor analysis",
+              "description": "",
+              "due":"30/11/2023",
+              "status": "Done"
+            },
+            {
+              "title": "Research the market",
+              "description": "We need to get a solid overview of the market to ensure we have up-to-date estimates of market size and demand.",
+              "due":"30/11/2023",
+              "status": "Done"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
